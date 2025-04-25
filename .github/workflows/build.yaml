@@ -11,7 +11,7 @@ on:
 # Be sure to update the lines below to match YOUR GitHub account name / your container image name.
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ykr2ku/mycontainer
+  IMAGE_NAME: izhou1/mycontainer
   IMAGE_TAG: 1.${{ github.run_number }} # GITHUB_RUN_NUMBER }}
 
 jobs:
